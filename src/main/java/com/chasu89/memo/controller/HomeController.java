@@ -1,4 +1,4 @@
-package com.chasu89.memo;
+package com.chasu89.memo.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
